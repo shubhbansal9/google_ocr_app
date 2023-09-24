@@ -1,4 +1,4 @@
-# google_ocr_app
+OCR application
 
 A new Flutter project.
 
