@@ -1,16 +1,17 @@
-OCR application
+<h1 align="center" id="title">OCR application</h1>
 
-A new Flutter project.
+<p id="description">Flutter app to OCR using Google ml text recognisation kit.</p>
 
-## Getting Started
+<h2>🛠️ Installation Steps:</h2>
 
-This project is a starting point for a Flutter application.
+<p>1. Get dependencies</p>
 
-A few resources to get you started if this is your first Flutter project:
+```
+flutter pub get
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p>2. Run the application</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+flutter run
+```
